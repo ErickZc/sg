@@ -1,0 +1,5 @@
+mostrarUsuario
+select * from usuario
+
+mostrarUsuario
+insert into usuario(rol_usuario, usuario_usuario, password_usuario, nombre_usuario, apellido_usuario) VALUES (rol_usuario, usuario_usuario, password_usuario,nombre_usuario, apellido_usuario)
